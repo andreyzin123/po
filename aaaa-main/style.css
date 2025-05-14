@@ -1,0 +1,22 @@
+*{ text-align: center;
+    size: 80%;}
+
+h1{ text-align: center;
+color: white;}
+
+h2{position: absolute;
+    color: rgb(47, 47, 47);}
+
+img{ height: 150px;
+width: 150px;
+padding: 15px;
+
+}
+
+div{ 
+    height: 200px;
+}
+header{height: 50px;
+     background-color: rgb(47, 47, 47);}
+
+body{background-color: rgb(63, 63, 63);}
